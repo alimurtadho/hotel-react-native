@@ -8,7 +8,7 @@
 
 ```bash
 # clone repo
-$ git clone https://github.com/lexmartinez/react-native-hotels-app
+$ git clone https://github.com/alimurtadho/hotel-reactnative
 
 # change directory to cloned app
 $ cd react-native-hotels-app
