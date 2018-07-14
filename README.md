@@ -1,14 +1,11 @@
 # react-native-hotels-app 
 
-:tent: Hotels App: A simple react-native App exercise with nodeJS API consumption - codename: `otel`
-
-> Created as part of technical test for **mobile dev** role at Hays Recruiting - Almundo.com
 
 ### Quick start
 
 ```bash
 # clone repo
-$ git clone https://github.com/alimurtadho/hotel-reactnative
+$ git clone https://github.com/alimurtadho/hotel-react-native.git
 
 # change directory to cloned app
 $ cd react-native-hotels-app
