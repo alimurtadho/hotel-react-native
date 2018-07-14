@@ -61,6 +61,4 @@ $ react-native run-ios
 | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-5.png" width="300"> | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-6.png" width="300">  | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-7.png" width="300"> | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-8.png" width="300">  |
 | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-9.png" width="300"> | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-10.png" width="300">  | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-11.png" width="300"> | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-12.png" width="300">  |
 
-## License
 
-This project is licensed under MIT License - see the [LICENSE.md](https://github.com/lexmartinez/react-native-hotels-app/blob/master/LICENSE.md) file for details
