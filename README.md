@@ -43,7 +43,6 @@ $ react-native run-ios
 
 
 ## Preview
-| <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-12.png" width="300">  |
- <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-11.png" width="300"> | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-12.png" width="300">  |
+| <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-12.png" width="300">  |<img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-11.png" width="300"> | <img src="https://raw.githubusercontent.com/lexmartinez/react-native-hotels-app/master/screenshots/screenshot-12.png" width="300">  |
 
 
